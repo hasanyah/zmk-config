@@ -68,8 +68,8 @@ behaviors {
                 &none       &none       &none       &none       &none       &none                   &none       &none       &none       &none       &none       &none
                 &none       &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &none                   &none       &none       &none       &none       &none       &none
                 &none       &kp LGUI    &kp LALT    &kp LCTRL   &kp LSHFT   &none                   &none       &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &none
-                &mo NAV     &ms WHLL    &ms WHLD    &ms WHLU    &ms WHLR    &none       &none       &none       &ms WHLL    &ms WHLD    &ms WHLU    &ms WHLR    &none
-                                      &none       &none       &none       &df BASE    &none       &none       &none       &none
+                &none     &ms WHLL    &ms WHLD    &ms WHLU    &ms WHLR    &none       &none       &none       &ms WHLL    &ms WHLD    &ms WHLU    &ms WHLR    &none
+                                      &none       &none       &none       &none    &none       &none       &none       &none
             >;
         };
     };
