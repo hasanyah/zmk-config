@@ -27,7 +27,7 @@ behaviors {
             bindings = <
                 &none       &none       &none       &none       &none       &none                   &none       &none       &none       &none       &none       &none
                 &none       &kp B       &kp Y       &kp O       &kp U       &kp QUOT                &kp SCLN    &kp L       &kp D       &kp W       &kp V       &none
-                &kp ESC     &rpi LGUI C       &LALT I       &LCTRL E       &LSHFT A       &kp COMMA               &kp DOT     &RSHFT H       &RCTRL T       &RALT S       &RGUI N       &kp Z
+                &kp ESC     &rpi LGUI C       &rpi LALT I       &rpi LCTRL E       &rpi LSHFT A       &kp COMMA               &kp DOT     &rpi RSHFT H       &rpi RCTRL T       &rpi RALT S       &rpi RGUI N       &kp Z
                 &mo NUM     &kp G       &kp X       &kp J       &kp K       &kp MINUS    &none       &none       &kp SLASH   &kp R       &kp M       &kp F       &kp P       &kp Q
                                       &mo 3     &kp BSPC    &lt 4 TAB     &kp LSHFT      &lt 1 ENTER     &kp SPC     &kp DEL     &kp EQUAL
             >;
