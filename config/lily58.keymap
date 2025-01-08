@@ -28,8 +28,8 @@ behaviors {
                 &none       &none       &none       &none       &none       &none                   &none       &none       &none       &none       &none       &none
                 &none       &kp B       &kp Y       &kp O       &kp U       &kp QUOT                &kp SCLN    &kp L       &kp D       &kp W       &kp V       &none
                 &kp ESC     &rpi LGUI C       &rpi LALT I       &rpi LCTRL E       &rpi LSHFT A       &kp COMMA               &kp DOT     &rpi RSHFT H       &rpi RCTRL T       &rpi RALT S       &rpi RGUI N       &kp Z
-                &mo NUM     &kp G       &kp X       &kp J       &kp K       &kp MINUS    &none       &none       &kp SLASH   &kp R       &kp M       &kp F       &kp P       &kp Q
-                                      &mo 3     &kp BSPC    &lt 4 TAB     &kp LSHFT      &lt 1 ENTER     &kp SPC     &kp DEL     &kp EQUAL
+                &kp LSHFT     &kp G       &kp X       &kp J       &kp K       &kp MINUS    &none       &none       &kp SLASH   &kp R       &kp M       &kp F       &kp P       &kp Q
+                                      &mo 3     &kp BSPC    &lt 4 TAB       &mo 2      &lt 1 ENTER     &kp SPC     &kp DEL     &kp EQUAL
             >;
         };
 
@@ -39,7 +39,7 @@ behaviors {
                 &none       &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PERC                &kp CIRC    &kp AMPS    &kp STAR    &kp LPAR    &kp RPAR    &none
                 &none       &kp 1       &kp 2       &kp 3       &kp 4       &kp 5                   &kp 6       &kp 7       &kp 8       &kp 9       &kp 0       &none
                 &none       &none       &none       &none       &none       &kp LBRC     &kp RBRC    &kp PIPE    &kp GRAVE   &kp PLUS    &kp LCBR    &kp RCBR    &none
-                                      &mo NUM     &kp LGUI    &kp LALT    &kp SPC      &kp ENT      &kp BSPC    &kp RGUI    &mo SYM
+                                      &mo 3     &kp BSPC    &lt 4 TAB       &mo 2      &lt 1 ENTER     &kp SPC     &kp DEL     &kp EQUAL
             >;
         };
 
