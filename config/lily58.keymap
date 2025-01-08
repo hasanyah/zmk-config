@@ -35,11 +35,11 @@ behaviors {
 
         sym {
             bindings = <
-                &none       &none       &none       &none       &none       &none                   &none       &none       &none       &none       &none       &db_togg
-                &none       &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PERC                &kp CIRC    &kp AMPS    &kp STAR    &kp LPAR    &kp RPAR    &none
-                &none       &kp 1       &kp 2       &kp 3       &kp 4       &kp 5                   &kp 6       &kp 7       &kp 8       &kp 9       &kp 0       &none
-                &none       &none       &none       &none       &none       &kp LBRC     &kp RBRC    &kp PIPE    &kp GRAVE   &kp PLUS    &kp LCBR    &kp RCBR    &none
-                                      &mo 3     &kp BSPC    &lt 4 TAB       &mo 2      &lt 1 ENTER     &kp SPC     &kp DEL     &kp EQUAL
+                &none       &none       &none       &none       &none       &none                   &none       &none       &none       &none       &none       &none
+                &none       &none       &none       &none       &none       &none                   &none       &kp 7       &kp 8       &kp 9       &none       &none
+                &none       &kp LGUI    &kp LALT    &kp LCTRL   &kp LSHFT   &none                   &kp SLASH   &kp 4       &kp 5       &kp 6       &kp STAR    &none
+                &none       &none       &none       &none       &none       &none       &none       &none       &kp MINUS   &kp 1       &kp 2       &kp 3       &kp EQUAL
+                                      &none       &none       &none       &none       &none       &kp 0       &kp COMMA   &kp DOT
             >;
         };
 
